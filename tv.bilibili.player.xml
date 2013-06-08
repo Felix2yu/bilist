@@ -43,5 +43,5 @@
  <item enabled="false">t=([AaBbCcDd])\1{2}|盲狙</item>
  <item enabled="false">t=[Cc][Hh][Rr][Oo][Mm][Ee]|[Ff][Ii][Rr][Ee][Ff][Oo][Xx]|[Oo][Pp][Ee][Rr][Aa]|[Ii][Ee][^A-Za-z\s]|[遨傲]游|搜狗|火狐|欧朋|360[^A-Za-z0-9\s]|[瀏浏][覽览]器</item>
  <item enabled="false">t=优酷|土豆|奇[异艺]|乐视</item>
- <item enabled="false">t=[\u4e00-\u9fa5][/(（].{1,5}[/)）]</item>
+ <item enabled="false">t=[\u4e00-\u9fa5][/(（]([a-zA-Z]{2,6}|[\u4e00-\u9fa5])[/)）]</item>
 </filters>
